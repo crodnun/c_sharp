@@ -1,0 +1,6 @@
+C:\Training\c#\DataTypes\DataTypes\bin\Release\DataTypes.exe.config
+C:\Training\c#\DataTypes\DataTypes\bin\Release\DataTypes.exe
+C:\Training\c#\DataTypes\DataTypes\bin\Release\DataTypes.pdb
+C:\Training\c#\DataTypes\DataTypes\obj\Release\DataTypes.csproj.CoreCompileInputs.cache
+C:\Training\c#\DataTypes\DataTypes\obj\Release\DataTypes.exe
+C:\Training\c#\DataTypes\DataTypes\obj\Release\DataTypes.pdb

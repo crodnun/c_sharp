@@ -1,0 +1,7 @@
+C:\Training\c#\UsingClasses\UsingClasses\bin\Release\UsingClasses.exe.config
+C:\Training\c#\UsingClasses\UsingClasses\bin\Release\UsingClasses.exe
+C:\Training\c#\UsingClasses\UsingClasses\bin\Release\UsingClasses.pdb
+C:\Training\c#\UsingClasses\UsingClasses\obj\Release\UsingClasses.csprojAssemblyReference.cache
+C:\Training\c#\UsingClasses\UsingClasses\obj\Release\UsingClasses.csproj.CoreCompileInputs.cache
+C:\Training\c#\UsingClasses\UsingClasses\obj\Release\UsingClasses.exe
+C:\Training\c#\UsingClasses\UsingClasses\obj\Release\UsingClasses.pdb
